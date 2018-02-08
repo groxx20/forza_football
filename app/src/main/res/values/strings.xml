@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Forza Football</string>
+    <string name="title_main">Teams</string>
+    <string name="national">National</string>
+    <string name="international">International</string>
+    <string name="success">Success</string>
+</resources>
